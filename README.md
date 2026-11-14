@@ -37,7 +37,7 @@ The analysis shows difference in attrition based on factors such as overtime, ag
 Employees working overtime show comparatively higher attrition, while differences in average income and age can also be observed between employees who stayed and those who left.
 
 ## Project Files
-- 'HR Employee Attrition EDA.ipynb'-  Complete Python EDA notebook
+- [Python EDA Notebook](HR_Employee_Attrition_EDA.ipynb)
 - [Power BI Dashboard (PDF)](HR%20Employee%20Attrition%20Analysis.pdf)
 
 ## Power BI Dashboard Preview
