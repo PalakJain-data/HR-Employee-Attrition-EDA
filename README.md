@@ -39,3 +39,11 @@ Employees working overtime show comparatively higher attrition, while difference
 ## Project Files
 - 'HR Employee Attrition EDA.ipynb'-  Complete Python EDA notebook
 - [Power BI Dashboard (PDF)](HR%20Employee%20Attrition%20Analysis.pdf)
+
+## Power BI Dashboard Preview
+
+### Page 1 – HR Employee Attrition Analysis
+![Dashboard Page 1](Screenshot%202026-11-14%20163826.png)
+
+### Page 2 – Employee Insights
+![Dashboard Page 2](Screenshot%202026-11-14%20163851.png)
